@@ -6,7 +6,7 @@ In this project, there will be another option. If the customer question is about
 
 In Watson Discovery I have added User Manual for the Discovery .
 
-Node-Red Dashboard link after deploying : https://dev-works-app12.eu-gb.mybluemix.net/ui
+
 
 Watson Assistan Preview Link : https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-south&integrationID=e70514e9-d646-4f55-8656-0e63ca4e5113&serviceInstanceID=26fd3ef0-c511-4f8b-aa3e-c0d9bb5c6b7c
 
